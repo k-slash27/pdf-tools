@@ -1,0 +1,12 @@
+altgraph==0.17.3
+cffi==1.15.1
+charset-normalizer==2.1.1
+cryptography==38.0.1
+macholib==1.16.2
+pdfminer.six==20220524
+pycparser==2.21
+pyinstaller==5.6.1
+pyinstaller-hooks-contrib==2022.10
+PySimpleGUI==4.60.4
+regex==2022.9.13
+tk==0.1.0
